@@ -1,0 +1,21 @@
+C 88,128,217
+
+
+SO ./imgs/wall_r1.png   
+
+
+NO ./imgs/wall_b1.png
+
+WE ./imgs/wall_y1.png
+
+F 124,114,105
+
+EA ./imgs/wall_g1.png
+
+
+
+111111
+10000111111
+110E0000001
+10000111111
+111111
